@@ -4,8 +4,6 @@
 
 ### Overview
 
-TO DO: Project description
-
 ### Technologies Used
 
 ### Lessons Learned, Insights Gained
