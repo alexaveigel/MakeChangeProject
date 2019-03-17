@@ -17,7 +17,7 @@ public class CashRegister {
 		double itemPrice = sc.nextDouble();
 
 		System.out.println("Please enter how much money are you inserting >> ");
-		double moneyInserted = sc.nextDouble();
+		double moneyInserted = sc.nextDouble() + 0.001;
 		double change = moneyInserted - itemPrice;
 
 		System.out.println("Your change is >> " + (moneyInserted - itemPrice));
